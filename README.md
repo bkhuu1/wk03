@@ -1,2 +1,4 @@
 wk3 repo
-simple_css and birds_main
+https://bkhuu1.github.io/wk3/simple_css/basic_styling.html
+https://bkhuu1.github.io/wk3/birds_main
+
